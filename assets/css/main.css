@@ -839,6 +839,10 @@ a.back-to-top:hover, a.back-to-top:focus {
   color: #fa57c1;
 }
 
+.social .medium:hover {
+  color: #00ab6c;
+}
+
 /* Services Item */
 #services .icon {
   margin-bottom: 10px;
